@@ -1,4 +1,6 @@
 # EX.NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
+## NAME: KANISHKA P
+## REG NO: 2305001011
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
